@@ -1,5 +1,4 @@
-# OOP-Project-Victoria-Hayk
-# OOP-Project-Victoria-Hayk
+# OOP-Project
 
 This game is a text based monopoly game
 
