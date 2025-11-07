@@ -31,9 +31,6 @@ Input 'm' to roll the dice and move the pawn
 Input 'b' if you want to buy the property
 Input 'u' 'LOCATION' if you want to upgrade one of your properties at the location 'LOCATION'
 
-The feature this games lack:
-GUI
-
 Additional comments:
 Property, checkpoint and chance are inherited from square. The only common thing they have is their name. During this game the name of a square is not used at all, however it is there as it may come in handy when GUI is added.
 
